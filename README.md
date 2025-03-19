@@ -167,6 +167,9 @@ TestMangentent/
 - 添加新組件: 在`components/`目錄下創建新文件
 - API集成: 在`services/api.js`中添加新的API調用
 
+<img width="1510" alt="image" src="https://github.com/user-attachments/assets/93f0870e-b1c9-426b-96d3-a886bae04d79" />
+
+
 ## 故障排除
 
 - **端口被佔用**: 使用`lsof -i :端口號`檢查，更換端口或終止進程
